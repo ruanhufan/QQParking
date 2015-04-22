@@ -31,7 +31,7 @@ AdminQQ = '0'
 tulingkey='#YOUR KEY HERE#'
 
 initTime = time.time()
-
+b6a17d2a0c082274e50e16ec57a6b013
 
 logging.basicConfig(filename='log.log', level=logging.DEBUG, format='%(asctime)s  %(filename)s[line:%(lineno)d] %(levelname)s %(message)s', datefmt='%a, %d %b %Y %H:%M:%S')
 
